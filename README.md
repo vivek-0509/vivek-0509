@@ -8,7 +8,7 @@
 - 🎓 Pursuing **Computer Science Engineering** in **Bengaluru**
 - 💻 Backend Developer specializing in **Spring Boot**
 - 🤖 Passionate about **AI/ML**
-- 🔍 Currently learning **GO** ,**LLD** and **HLD**
+- 🔍 Currently learning **GO** ,**LLD** 
 - 🤝 Open for collaboration on impactful **backend projects**
 - 📫 Reach me at: **viveksolanki0509@gmail.com**
 
