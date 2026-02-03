@@ -71,3 +71,5 @@
 ## 💡 Fun Fact
 
 > “Clean code always wins in the long run 🚀”
+
+![Profile Views](https://komarev.com/ghpvc/?username=vivek-0509&label=Profile%20Views&color=0e75b6&style=flat)
