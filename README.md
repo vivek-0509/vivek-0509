@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **Computer Science Engineering** in **Bengaluru**
+- 🎓 Pursuing **Computer Science Engineering** in **Bengalur**
 - 💻 Backend Developer specializing in **Spring Boot**
 - 🤖 Passionate about **AI/ML**
 - 🔍 Currently learning **GO** ,**LLD** 
