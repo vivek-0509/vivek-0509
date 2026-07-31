@@ -63,7 +63,7 @@ Implementing **Java 25 (JEP 512)** support across the parser, AST, and static an
 ---
 
 <p align="center">
-📫 <a href="mailto:viveksolanki0599@gmail.com">viveksolanki0599@gmail.com</a>
+📫 <a href="mailto:viveksolanki0509@gmail.com">viveksolanki0599@gmail.com</a>
 </p>
 
 ---
