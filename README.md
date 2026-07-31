@@ -1,67 +1,68 @@
 <h1 align="center">Vivek Singh Solanki</h1>
 
 <p align="center">
-Building Java developer tooling and Ethereum infrastructure through large-scale open source.
+Building Java developer tooling and Ethereum infrastructure through open source.
+</p>
+
+<p align="center">
+  <a href="https://github.com/checkstyle/checkstyle">Checkstyle</a> •
+  <a href="https://github.com/besu-eth/besu">Hyperledger Besu</a> •
+  <a href="mailto:viveksolanki0599@gmail.com">Email</a>
 </p>
 
 ---
 
 ## About
 
-I'm a software engineer focused on Java tooling, compiler infrastructure, and distributed systems.
+Software engineer focused on Java tooling, static analysis, compiler infrastructure, and distributed systems.
 
-I enjoy working on long-lived open source projects where correctness, backward compatibility, and code quality are as important as shipping new features.
+Currently contributing to:
+
+- **Google Summer of Code 2026** at **[Checkstyle](https://github.com/checkstyle/checkstyle)**, implementing Java 25 (JEP 512) support.
+- **LFX Mentorship 2026** at **[Hyperledger Besu](https://github.com/besu-eth/besu)**, refactoring the public Plugin API and compatibility tooling.
 
 ---
 
 ## Open Source
 
-Over the last few months I've focused almost entirely on contributing to production open source projects.
+- **150+** Pull Requests
+- **90+** Issues reported and accepted
+- **Google Summer of Code 2026**
+- **LFX Mentorship 2026**
 
-| | |
-|---|---:|
-| Pull Requests | **150+** |
-| Issues Reported | **90+** |
-| Programs | **Google Summer of Code 2026**, **LFX Mentorship 2026** |
-| Main Projects | **Checkstyle**, **Hyperledger Besu** |
+### Projects
 
-Projects:
+- **[Checkstyle](https://github.com/checkstyle/checkstyle)** - Java static analysis.
+- **[Hyperledger Besu](https://github.com/besu-eth/besu)** - Ethereum execution client.
 
-- **[Checkstyle](https://github.com/checkstyle/checkstyle)** - Java static analysis used by thousands of projects.
-- **[Hyperledger Besu](https://github.com/besu-eth/besu)** - Enterprise Ethereum execution client.
+### Explore
 
-Useful links:
-
-- **[View Pull Requests](https://github.com/search?q=is%3Apr+author%3Avivek-0509&type=pullrequests)**
-- **[View Issues](https://github.com/search?q=is%3Aissue+author%3Avivek-0509&type=issues)**
+- **[Pull Requests](https://github.com/search?q=is%3Apr+author%3Avivek-0509&type=pullrequests)**
+- **[Issues](https://github.com/search?q=is%3Aissue+author%3Avivek-0509&type=issues)**
 
 ---
 
 ## Current Work
 
-### [Hyperledger Besu](https://github.com/besu-eth/besu)
+### Hyperledger Besu
 
-**LFX Mentorship 2026**
-
-Refactoring Besu's public Plugin API to improve modularity while preserving binary compatibility for external plugin developers.
+Refactoring the public Plugin API to improve modularity while preserving binary compatibility for external plugin developers.
 
 Highlights:
 
-- Split a monolithic API into domain-focused modules
-- Introduced binary compatibility verification using **japicmp**
-- Replaced a source-hash based compatibility check
-- Improved API lifecycle and versioning support
+- Modular API architecture
+- Binary compatibility verification using **japicmp**
+- API lifecycle and versioning
+- Compatibility tooling for plugin developers
 
-### [Checkstyle](https://github.com/checkstyle/checkstyle)
-
-**Google Summer of Code 2026**
+### Checkstyle
 
 Implementing support for **Java 25 (JEP 512 Compact Source Files)** across the parser and static analysis engine.
 
 Highlights:
 
 - Parser and AST support
-- Check-level implementations
+- Check implementations
 - Reduced false positives and false negatives
 - CI improvements and regression prevention
 
@@ -85,7 +86,5 @@ Highlights:
 ## Contact
 
 📧 **viveksolanki0599@gmail.com**
-
----
 
 ![](https://komarev.com/ghpvc/?username=vivek-0509&style=flat&color=0e75b6)
