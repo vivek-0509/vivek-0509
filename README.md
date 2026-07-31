@@ -65,3 +65,9 @@ Implementing **Java 25 (JEP 512)** support across the parser, AST, and static an
 <p align="center">
 📫 <a href="mailto:viveksolanki0599@gmail.com">viveksolanki0599@gmail.com</a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivek-0509&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
