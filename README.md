@@ -5,7 +5,7 @@ Building Java developer tooling and Ethereum infrastructure through open source.
 </p>
 
 <p align="center">
-  <a href="https://github.com/besu-eth/besu">Hyperledger Besu</a> •
+  <a href="https://github.com/besu-eth/besu">Besu</a> •
   <a href="https://github.com/checkstyle/checkstyle">Checkstyle</a> •
   <a href="mailto:viveksolanki0599@gmail.com">Email</a>
 </p>
@@ -14,61 +14,36 @@ Building Java developer tooling and Ethereum infrastructure through open source.
 
 ## About
 
-Software engineer focused on Java tooling, static analysis, compiler infrastructure, and distributed systems.
+Software engineer focused on Java tooling, static analysis, and blockchain infrastructure.
 
-Currently contributing to:
-
-- **LFX Mentorship 2026** at **[Hyperledger Besu](https://github.com/besu-eth/besu)**, refactoring the public Plugin API and compatibility tooling.
-- **Google Summer of Code 2026** at **[Checkstyle](https://github.com/checkstyle/checkstyle)**, implementing Java 25 (JEP 512) support.
-
----
-
-## Open Source
-
-- **150+** Pull Requests
-- **90+** Issues reported and accepted
-- **LFX Mentorship 2026**
-- **Google Summer of Code 2026**
-
-### Projects
-
-- **[Hyperledger Besu](https://github.com/besu-eth/besu)** - Ethereum execution client.
-- **[Checkstyle](https://github.com/checkstyle/checkstyle)** - Java static analysis.
-
-### Explore
-
-- **[Pull Requests](https://github.com/search?q=is%3Apr+author%3Avivek-0509&type=pullrequests)**
-- **[Issues](https://github.com/search?q=is%3Aissue+author%3Avivek-0509&type=issues)**
+- **150+ pull requests** across production open source projects. [View PRs](https://github.com/search?q=is%3Apr++author%3Avivek-0509&type=pullrequests)
+- **90+ accepted issues** identified and fixed. [View Issues](https://github.com/search?q=is%3Aissue+author%3Avivek-0509&type=issues)
+- **LFX Mentorship 2026** at **[Hyperledger Besu](https://github.com/besu-eth/besu)**
+- **Google Summer of Code 2026** at **[Checkstyle](https://github.com/checkstyle/checkstyle)**
 
 ---
 
 ## Current Work
 
-### Hyperledger Besu
+### Hyperledger Besu · LFX Mentorship 2026
 
-**LFX Mentorship 2026**
+Refactoring Besu's public Plugin API into a modular architecture with governed, tool-enforced compatibility for external plugin developers.
 
-Refactoring Besu's public Plugin API to improve modularity while preserving binary compatibility for external plugin developers.
-
-Highlights:
-
-- Modular API architecture
-- Binary compatibility verification using **japicmp**
+- Modular API design
+- Binary compatibility verification with **japicmp**
 - API lifecycle and versioning
-- Compatibility tooling for plugin developers
 
-### Checkstyle
+**[View my Besu contributions →](https://github.com/besu-eth/besu/pulls?q=is%3Apr+is%3Amerged+author%3Avivek-0509)**
 
-**Google Summer of Code 2026**
+### Checkstyle · Google Summer of Code 2026
 
-Implementing support for **Java 25 (JEP 512 Compact Source Files)** across the parser and static analysis engine.
-
-Highlights:
+Implementing **Java 25 (JEP 512)** support across the parser, AST, and static analysis engine.
 
 - Parser and AST support
 - Check implementations
-- Reduced false positives and false negatives
-- CI improvements and regression prevention
+- Regression prevention and CI improvements
+
+**[View my Checkstyle contributions →](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3Avivek-0509)**
 
 ---
 
@@ -87,8 +62,6 @@ Highlights:
 
 ---
 
-## Contact
-
-📧 **viveksolanki0599@gmail.com**
-
-![](https://komarev.com/ghpvc/?username=vivek-0509&style=flat&color=0e75b6)
+<p align="center">
+📫 <a href="mailto:viveksolanki0599@gmail.com">viveksolanki0599@gmail.com</a>
+</p>
