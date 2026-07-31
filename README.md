@@ -5,8 +5,8 @@ Building Java developer tooling and Ethereum infrastructure through open source.
 </p>
 
 <p align="center">
-  <a href="https://github.com/checkstyle/checkstyle">Checkstyle</a> •
   <a href="https://github.com/besu-eth/besu">Hyperledger Besu</a> •
+  <a href="https://github.com/checkstyle/checkstyle">Checkstyle</a> •
   <a href="mailto:viveksolanki0599@gmail.com">Email</a>
 </p>
 
@@ -18,8 +18,8 @@ Software engineer focused on Java tooling, static analysis, compiler infrastruct
 
 Currently contributing to:
 
-- **Google Summer of Code 2026** at **[Checkstyle](https://github.com/checkstyle/checkstyle)**, implementing Java 25 (JEP 512) support.
 - **LFX Mentorship 2026** at **[Hyperledger Besu](https://github.com/besu-eth/besu)**, refactoring the public Plugin API and compatibility tooling.
+- **Google Summer of Code 2026** at **[Checkstyle](https://github.com/checkstyle/checkstyle)**, implementing Java 25 (JEP 512) support.
 
 ---
 
@@ -27,13 +27,13 @@ Currently contributing to:
 
 - **150+** Pull Requests
 - **90+** Issues reported and accepted
-- **Google Summer of Code 2026**
 - **LFX Mentorship 2026**
+- **Google Summer of Code 2026**
 
 ### Projects
 
-- **[Checkstyle](https://github.com/checkstyle/checkstyle)** - Java static analysis.
 - **[Hyperledger Besu](https://github.com/besu-eth/besu)** - Ethereum execution client.
+- **[Checkstyle](https://github.com/checkstyle/checkstyle)** - Java static analysis.
 
 ### Explore
 
@@ -46,7 +46,9 @@ Currently contributing to:
 
 ### Hyperledger Besu
 
-Refactoring the public Plugin API to improve modularity while preserving binary compatibility for external plugin developers.
+**LFX Mentorship 2026**
+
+Refactoring Besu's public Plugin API to improve modularity while preserving binary compatibility for external plugin developers.
 
 Highlights:
 
@@ -56,6 +58,8 @@ Highlights:
 - Compatibility tooling for plugin developers
 
 ### Checkstyle
+
+**Google Summer of Code 2026**
 
 Implementing support for **Java 25 (JEP 512 Compact Source Files)** across the parser and static analysis engine.
 
