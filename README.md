@@ -35,7 +35,7 @@ Refactoring Besu's public Plugin API into a modular architecture with governed, 
 
 **[View my Besu contributions →](https://github.com/besu-eth/besu/pulls?q=is%3Apr+is%3Amerged+author%3Avivek-0509)**
 
-### Checkstyle · Google Summer of Code 2026
+### Checkstyle 
 
 Implementing **Java 25 (JEP 512)** support across the parser, AST, and static analysis engine.
 
