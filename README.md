@@ -16,8 +16,8 @@ Building Java developer tooling and Ethereum infrastructure through open source.
 
 Software engineer focused on Java tooling, static analysis, and blockchain infrastructure.
 
-- **150+ pull requests** across production open source projects. [View PRs](https://github.com/search?q=is%3Apr++author%3Avivek-0509&type=pullrequests)
-- **90+ accepted issues** identified and fixed. [View Issues](https://github.com/search?q=is%3Aissue+author%3Avivek-0509&type=issues)
+- **170+ pull requests** across production open source projects. [View PRs](https://github.com/search?q=is%3Apr++author%3Avivek-0509&type=pullrequests)
+- **120+ accepted issues** identified and fixed. [View Issues](https://github.com/search?q=is%3Aissue+author%3Avivek-0509&type=issues)
 - **LFX Mentorship 2026** at **[Hyperledger Besu](https://github.com/besu-eth/besu)**
 - **Google Summer of Code 2026** at **[Checkstyle](https://github.com/checkstyle/checkstyle)**
 
